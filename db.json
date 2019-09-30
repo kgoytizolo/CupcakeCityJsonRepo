@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Chocolate cupcake",
+      "description": "Delicious chocolate cupcake with fudge",
+      "category": {
+      	id: 1,
+        name: "Category 1",
+        selected: true
+      }
+    },
+    {
+      "id": 2,
+      "product_name": "Red Velvet cupcake",
+      "description": "Delicious red velvet cupcake with buttercream",
+      "category": {
+      	id: 1,
+        name: "Category 1",
+        selected: true
+      }
+    },
+    {
+      "id": 3,
+      "product_name": "Carrot cake",
+      "description": "Our favourite! Carrot cake with frosty coverage.",
+      "category": {
+      	id: 2,
+        name: "Category 2",
+        selected: true
+      }
+    },
+    {
+      "id": 4,
+      "product_name": "Chocolate cake",
+      "description": "Amazing and smooth chocolate cake with fudge and cream caramel.",
+      "category": {
+      	id: 2,
+        name: "Category 2",
+        selected: true
+      }
+    },
+    {
+      "id": 5,
+      "product_name": "Lemon pie",
+      "description": "Sweet and sour lemon pie. Enjoy it!",
+      "category": {
+      	id: 3,
+        name: "Category 3",
+        selected: true
+      }
+    },
+    {
+      "id": 6,
+      "product_name": "Customized cupcakes 1",
+      "description": "Customized cupcakes (x6)",
+      "category": {
+      	id: 4,
+        name: "Category 4",
+        selected: true
+      }
+    }    
+  ]
+}
